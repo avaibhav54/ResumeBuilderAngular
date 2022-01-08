@@ -1,5 +1,5 @@
 # Resume Builder UI
-Resume builder UI application provides interactive user interface to collect and provide a downloadable PDF version of his/her resume. This project provides front end user interface which uses (https://github.com/cyela/Resume-Builder) API services generate pdf version resume
+Resume builder UI application provides interactive user interface to collect and provide a downloadable PDF version of his/her resume. This project provides front end user interface which uses  API services generate pdf version resume
 
 #### Screenshot
 ![Image of screenshot](https://github.com/cyela/Resume-builder-UI/blob/master/src/assets/images/ResumeBuilder.JPG)
